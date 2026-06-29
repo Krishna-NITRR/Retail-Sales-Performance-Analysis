@@ -11,8 +11,8 @@ Hey there! Welcome to my Retail Sales Performance Analysis project. This is an E
 
 ## Key Findings 💡
 Based on the data analysis, here are a couple of major insights:
-1. **Women are the Primary Revenue Drivers**: Women customers spend approximately **1.8x more** than men. They currently represent the highest ROI segment for marketing and inventory investments.
-2. **Growth Opportunity in the Men's Segment**: The men's segment is under-penetrated compared to overall sales. While women-focused offers drive immediate short-term revenue, analyzing male buying behavior and expanding the men's product mix is a strategic step for long-term growth.
+1. Women are the Primary Revenue Drivers: Women customers spend approximately **1.8x more** than men. They currently represent the highest ROI segment for marketing and inventory investments.
+2. Growth Opportunity in the Men's Segment: The men's segment is under-penetrated compared to overall sales. While women-focused offers drive immediate short-term revenue, analyzing male buying behavior and expanding the men's product mix is a strategic step for long-term growth.
 
 ## How to check it out? 🛠️
 1. Download the `JayRam Store Data Analysis(JayRam Store).xlsx` file.
