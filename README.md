@@ -19,7 +19,7 @@ Based on the data analysis, here are a couple of major insights:
 2. Open it in Microsoft Excel.
 3. Explore the dashboard sheet to interact with the visualizations and see the insights.
 
-What's my uniqueness? 
+## What's my uniqueness? 
 * Added predictive forecasting to estimate future sales trends.
 
 How did I implement Predictive Forecasting in Excel?
