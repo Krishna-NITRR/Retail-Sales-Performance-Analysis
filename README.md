@@ -23,4 +23,4 @@ Based on the data analysis, here are a couple of major insights:
 * Added predictive forecasting to estimate future sales trends.
 
 How did I implement Predictive Forecasting in Excel?
-I used Excel’s built-in **Forecast Sheet** capabilities which rely on **Exponential Smoothing (ETS)** algorithms. By bypassing standard PivotTable restrictions and feeding the engine clean, indexed historical time-series data, the `FORECAST.ETS` function in the background detected the seasonality and baseline trend. This generated a forecast curve with upper and lower confidence intervals, allowing the business to anticipate high-demand periods before they happen."
+I used Excel’s built-in **Forecast Sheet** capabilities which rely on **Exponential Smoothing (ETS)** algorithms. By bypassing standard PivotTable restrictions and feeding the engine clean, indexed historical time-series data, the `FORECAST.ETS` function in the background detected the seasonality and baseline trend. This generated a forecast curve with upper and lower confidence intervals, allowing the business to anticipate high-demand periods before they happen.
